@@ -1,7 +1,7 @@
 name: bespoke · architecture
 favicon: null
-layout_spectrum: 0.23536
-typography_spectrum: 0.48881
+layout_spectrum: 0.07403
+typography_spectrum: 0.70425
 title: BESPOKE · ARCHITECTURE
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#dcd1bf'
     - '#685a4f'
     - '#b8ae9d'
-  brandStrength: 0.25
+  brandStrength: 0.375
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.9177841637283564

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BESPOKEARCHITECTURE]]></title>
-        <description><![CDATA[BESPOKEARCHITECTURE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[BESPOKE · ARCHITECTURE]]></title>
+        <description><![CDATA[BESPOKE · ARCHITECTURE]]></description>
+        <link>https://thegrid.ai/bespokearchitecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 00:59:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 01:13:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bespokearchitecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf9675a-5530-4861-8159-f89ad42a22f7.JPG">]]></description>
+            <link>https://thegrid.ai/bespokearchitecture/17a3e24a-9402-4a1e-b6a7-92683d52aca0/index.html</link>
+            <guid isPermaLink="false">17a3e24a-9402-4a1e-b6a7-92683d52aca0</guid>
+            <pubDate>Tue, 23 Feb 2016 01:13:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85305bdb-a778-4c61-9f59-03c32655e642.JPG">]]></description>
-            <link>undefined6117711f-2e73-4ebc-84a2-17b7ab7cda6a/index.html</link>
+            <link>https://thegrid.ai/bespokearchitecture/6117711f-2e73-4ebc-84a2-17b7ab7cda6a/index.html</link>
             <guid isPermaLink="false">6117711f-2e73-4ebc-84a2-17b7ab7cda6a</guid>
             <pubDate>Tue, 23 Feb 2016 00:59:11 GMT</pubDate>
         </item>

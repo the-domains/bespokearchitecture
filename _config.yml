@@ -1,6 +1,6 @@
-name: BESPOKEARCHITECTURE
+name: bespoke · architecture
 favicon: null
-layout_spectrum: 0.57534
+layout_spectrum: 0.23536
 typography_spectrum: 0.48881
 title: BESPOKE · ARCHITECTURE
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#ffffff'
-    - '#2b2b2b'
-    - '#7c7b79'
-    - '#c3c3c5'
-  brandStrength: 0.125
-  lightness: 0.8858511997386813
+    - '#31241c'
+    - '#dcd1bf'
+    - '#685a4f'
+    - '#b8ae9d'
+  brandStrength: 0.25
+  lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.9177841637283564
 purpose: []

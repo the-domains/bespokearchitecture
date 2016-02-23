@@ -1,7 +1,7 @@
 name: BESPOKEARCHITECTURE
 favicon: null
-layout_spectrum: 0.630854498129338
-typography_spectrum: 0.6830837854649872
+layout_spectrum: 0.57534
+typography_spectrum: 0.48881
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.004472542554140091
+    - '#000000'
+    - '#ffffff'
+    - '#2b2b2b'
+    - '#7c7b79'
+    - '#c3c3c5'
+  brandStrength: 0.125
   lightness: 0.8858511997386813
-  saturation: 0.12000972335226834
+  saturation: 0.1875
   rhythmicContrast: 0.9177841637283564
 purpose: []

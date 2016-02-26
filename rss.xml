@@ -4,8 +4,15 @@
         <description><![CDATA[BESPOKE · ARCHITECTURE]]></description>
         <link>https://thegrid.ai/bespokearchitecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 20:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 20:34:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bespokearchitecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85fbe135-f714-4c8f-893d-1fad7a9c84be.png">]]></description>
+            <link>https://thegrid.ai/bespokearchitecture/bd009772-ac61-43f0-9b86-557d6e2a28ac/index.html</link>
+            <guid isPermaLink="false">bd009772-ac61-43f0-9b86-557d6e2a28ac</guid>
+            <pubDate>Thu, 25 Feb 2016 20:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DSC_0913.JPG]]></title>
             <description><![CDATA[<article><h1>DSC_0913.JPG</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6e54a6ced1233e7b1627fa59f7cb933b7f825b9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bespokearchitecture/fd7bdc7c-9402-4491-85c9-40fc3d3a36cd/index.html</link>
             <guid isPermaLink="false">fd7bdc7c-9402-4491-85c9-40fc3d3a36cd</guid>
             <pubDate>Tue, 23 Feb 2016 01:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf9675a-5530-4861-8159-f89ad42a22f7.JPG">]]></description>
-            <link>https://thegrid.ai/bespokearchitecture/17a3e24a-9402-4a1e-b6a7-92683d52aca0/index.html</link>
-            <guid isPermaLink="false">17a3e24a-9402-4a1e-b6a7-92683d52aca0</guid>
-            <pubDate>Tue, 23 Feb 2016 01:13:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

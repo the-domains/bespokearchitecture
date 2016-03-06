@@ -1,6 +1,6 @@
 name: bespoke · architecture
 favicon: null
-layout_spectrum: 0.23672
+layout_spectrum: 0.11468
 typography_spectrum: 0.48998
 title: BESPOKE · ARCHITECTURE
 collections:
@@ -34,8 +34,8 @@ color:
     - '#dcd1bf'
     - '#685a4f'
     - '#b8ae9d'
-  brandStrength: 0.1875
-  lightness: 0.625
-  saturation: 0.3785835
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []

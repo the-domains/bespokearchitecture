@@ -4,8 +4,15 @@
         <description><![CDATA[PANTHEON · ARCHITECTURE]]></description>
         <link>https://thegrid.ai/bespokearchitecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 15:27:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bespokearchitecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/888fe74e-e78d-46b6-894e-01ea8cd2372e.jpg">]]></description>
+            <link>https://thegrid.ai/bespokearchitecture/c905e4f2-45c5-4ade-a3b6-5841487d46f6/index.html</link>
+            <guid isPermaLink="false">c905e4f2-45c5-4ade-a3b6-5841487d46f6</guid>
+            <pubDate>Wed, 09 Mar 2016 15:26:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39da08b-2ce5-47b8-b024-c4086fe6ad8f.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bespokearchitecture/0b76648e-4851-4d57-9aac-a8cd8585f4de/index.html</link>
             <guid isPermaLink="false">0b76648e-4851-4d57-9aac-a8cd8585f4de</guid>
             <pubDate>Tue, 23 Feb 2016 02:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a2665f5-9864-4f74-8e6b-dc230ec6a69b.jpg">]]></description>
-            <link>https://thegrid.ai/bespokearchitecture/fd7bdc7c-9402-4491-85c9-40fc3d3a36cd/index.html</link>
-            <guid isPermaLink="false">fd7bdc7c-9402-4491-85c9-40fc3d3a36cd</guid>
-            <pubDate>Tue, 23 Feb 2016 01:21:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

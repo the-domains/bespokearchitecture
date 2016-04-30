@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: PANTHEON architecture
 favicon: null
+name: PANTHEON architecture
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.9426644
-layout_spectrum: 0.11468
+layout_spectrum: 0.03878583

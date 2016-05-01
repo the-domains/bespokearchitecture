@@ -4,8 +4,15 @@
         <description><![CDATA[PANTHEON · ARCHITECTURE]]></description>
         <link>https://thegrid.ai/bespokearchitecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 18:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 18:20:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bespokearchitecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c84e7f97-4df8-4a43-af57-79b64c40170b.png">]]></description>
+            <link>https://thegrid.ai/bespokearchitecture/0f1f2d93-6959-40e4-abc7-ae13aaddf1dc/index.html</link>
+            <guid isPermaLink="false">0f1f2d93-6959-40e4-abc7-ae13aaddf1dc</guid>
+            <pubDate>Sun, 01 May 2016 18:19:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f662ff5-28b7-42dd-a020-9597342ff639.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e42601bc-7812-43f3-8982-543aff713045.png">]]></description>
             <link>https://thegrid.ai/bespokearchitecture/f6045eff-7682-4a4e-acf5-79f54e5ce7db/index.html</link>
             <guid isPermaLink="false">f6045eff-7682-4a4e-acf5-79f54e5ce7db</guid>
-            <pubDate>Tue, 23 Feb 2016 02:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b583e11a-59be-451f-8c70-397337b8c7c7.png">]]></description>
-            <link>https://thegrid.ai/bespokearchitecture/0b76648e-4851-4d57-9aac-a8cd8585f4de/index.html</link>
-            <guid isPermaLink="false">0b76648e-4851-4d57-9aac-a8cd8585f4de</guid>
             <pubDate>Tue, 23 Feb 2016 02:54:15 GMT</pubDate>
         </item>
     </channel>
